@@ -1,0 +1,14 @@
+G:\Three\Csh\Notifier\Notifier\bin\Debug\net8.0\Notifier.exe
+G:\Three\Csh\Notifier\Notifier\bin\Debug\net8.0\Notifier.deps.json
+G:\Three\Csh\Notifier\Notifier\bin\Debug\net8.0\Notifier.runtimeconfig.json
+G:\Three\Csh\Notifier\Notifier\bin\Debug\net8.0\Notifier.dll
+G:\Three\Csh\Notifier\Notifier\bin\Debug\net8.0\Notifier.pdb
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\Notifier.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\Notifier.AssemblyInfoInputs.cache
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\Notifier.AssemblyInfo.cs
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\Notifier.csproj.CoreCompileInputs.cache
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\Notifier.dll
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\refint\Notifier.dll
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\Notifier.pdb
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\Notifier.genruntimeconfig.cache
+G:\Three\Csh\Notifier\Notifier\obj\Debug\net8.0\ref\Notifier.dll
